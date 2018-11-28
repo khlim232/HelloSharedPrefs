@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\132e8dae4da92ebf40c24b5f78573415\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e1dbf64d5936b438f1dbaf2d7aa8a2b6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2430d08567274133f8d315867ee9e6df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d93d1c3d4c9f516d072b8e3f8c2677cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\087f0b98e82d7f6041917347b0715f71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1c87078d7893047742320cf094b91332\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed0707a84c7338c952e65a0030dbd36b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bc596b4c9e2bc9235fe3702ac7a81dfb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\522df927db9115c27e9415288aefab47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f67f07ab5435f6d7a11f43ec7216858e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9758c7951acac2e10796e3cb389b9b7a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\80f2e6857eec79198157dbfafc895013\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e1dbf64d5936b438f1dbaf2d7aa8a2b6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e1dbf64d5936b438f1dbaf2d7aa8a2b6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\132e8dae4da92ebf40c24b5f78573415\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\132e8dae4da92ebf40c24b5f78573415\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e1dbf64d5936b438f1dbaf2d7aa8a2b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e1dbf64d5936b438f1dbaf2d7aa8a2b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2430d08567274133f8d315867ee9e6df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2430d08567274133f8d315867ee9e6df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d93d1c3d4c9f516d072b8e3f8c2677cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d93d1c3d4c9f516d072b8e3f8c2677cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\087f0b98e82d7f6041917347b0715f71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\087f0b98e82d7f6041917347b0715f71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1c87078d7893047742320cf094b91332\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1c87078d7893047742320cf094b91332\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed0707a84c7338c952e65a0030dbd36b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed0707a84c7338c952e65a0030dbd36b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bc596b4c9e2bc9235fe3702ac7a81dfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bc596b4c9e2bc9235fe3702ac7a81dfb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\522df927db9115c27e9415288aefab47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\522df927db9115c27e9415288aefab47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f67f07ab5435f6d7a11f43ec7216858e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f67f07ab5435f6d7a11f43ec7216858e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9758c7951acac2e10796e3cb389b9b7a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9758c7951acac2e10796e3cb389b9b7a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\80f2e6857eec79198157dbfafc895013\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\80f2e6857eec79198157dbfafc895013\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Desktop\HelloSharedPrefs\app\src\main\AndroidManifest.xml
